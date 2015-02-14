@@ -1,16 +1,27 @@
+require 'pry'
 class Menu
 
-  DEPARTMENT = '#gnf_dept_tree_item_1>span>span'
+  DEPARTMENT = '#gnf_dept_tree_item_1'
 
   def initialize driver
     @driver = driver
   end
 
   def select_category_and_subcategory(category, sub_category)
+    binding.pry
     move_to_category category
     subcategory_element = find_element_by_partial_link_text sub_category
     subcategory_element.click
     SubCategoryPage.new(@driver, sub_category)
+  end
+
+  def select_category category
+    # @driver.wait_for_element DEPARTMENT
+    catagory_element = find_element_by_css DEPARTMENT
+    move_to_element catagory_element
+    element = find_element_by_partial_link_text category
+    element.click
+    CategoryPage.new(@driver, category)
   end
 
   private

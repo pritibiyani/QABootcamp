@@ -15,14 +15,20 @@ describe 'Test Sears website' do
     homepage               = HomePage.new(@driver)
     homepage.navigate_to_home_page(@base_url)
     sub_category = homepage.select_category_and_subcategory selection_criteria_one[:category], selection_criteria_one[:sub_category]
-    # expect (sub_category.on_subcategory_page?).to be true
+    expect (sub_category.on_subcategory_page?).to be true
     product_page = sub_category.choose_product selection_criteria_one[:product]
-    # expect (product_page.on_product_page?).to be true
+    expect (product_page.on_product_page?).to be true
     product_page.select_category_and_subcategory selection_criteria_two[:category], selection_criteria_two[:sub_category]
   end
 
+  context 'check analytics' do
+     it 'should check analytics on category page' do
+       category = 'Appliances'
+
+     end
+  end
   after(:all) do
-    # @driver.close
+    @driver.close
   end
 
 end

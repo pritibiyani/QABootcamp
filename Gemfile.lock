@@ -3,9 +3,15 @@ GEM
   specs:
     childprocess (0.5.5)
       ffi (~> 1.0, >= 1.0.11)
+    coderay (1.1.0)
     diff-lcs (1.2.5)
     ffi (1.9.6)
+    method_source (0.8.2)
     multi_json (1.10.1)
+    pry (0.10.1)
+      coderay (~> 1.1.0)
+      method_source (~> 0.8.1)
+      slop (~> 3.4)
     rspec (3.2.0)
       rspec-core (~> 3.2.0)
       rspec-expectations (~> 3.2.0)
@@ -25,6 +31,7 @@ GEM
       multi_json (~> 1.0)
       rubyzip (~> 1.0)
       websocket (~> 1.0)
+    slop (3.6.0)
     websocket (1.2.1)
 
 PLATFORMS
@@ -32,5 +39,6 @@ PLATFORMS
 
 DEPENDENCIES
   ffi (= 1.9.6)
+  pry
   rspec (= 3.2.0)
   selenium-webdriver (= 2.44.0)
