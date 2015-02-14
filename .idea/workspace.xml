@@ -25,7 +25,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="sears_spec.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/projects/QABootcamp/spec/sears_spec.rb">
+        <entry file="file://$PROJECT_DIR$/../QABootcamp/spec/sears_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="92" max-vertical-offset="1419">
               <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
@@ -35,7 +35,7 @@
         </entry>
       </file>
       <file leaf-file-name="HomePage.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/projects/QABootcamp/src/HomePage.rb">
+        <entry file="file://$PROJECT_DIR$/../QABootcamp/src/HomePage.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="307" max-vertical-offset="1290">
               <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
@@ -45,7 +45,7 @@
         </entry>
       </file>
       <file leaf-file-name="Menu.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/projects/QABootcamp/src/Menu.rb">
+        <entry file="file://$PROJECT_DIR$/../QABootcamp/src/Menu.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1720">
               <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
@@ -55,7 +55,7 @@
         </entry>
       </file>
       <file leaf-file-name="SubCategoryPage.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/projects/QABootcamp/src/SubCategoryPage.rb">
+        <entry file="file://$PROJECT_DIR$/../QABootcamp/src/SubCategoryPage.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="213" max-vertical-offset="2052">
               <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
@@ -65,7 +65,7 @@
         </entry>
       </file>
       <file leaf-file-name="ProductPage.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/projects/QABootcamp/src/ProductPage.rb">
+        <entry file="file://$PROJECT_DIR$/../QABootcamp/src/ProductPage.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.46728972" vertical-offset="0" max-vertical-offset="675">
               <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
@@ -89,15 +89,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/projects/SearsProject/Gemfile" />
-        <option value="$USER_HOME$/projects/SearsProject/spec/spec_helper.rb" />
-        <option value="$USER_HOME$/projects/SearsProject/src/CategoryPage.rb" />
-        <option value="$USER_HOME$/projects/SearsProject/config/webdriver.rb" />
-        <option value="$USER_HOME$/projects/SearsProject/src/HomePage.rb" />
-        <option value="$USER_HOME$/projects/SearsProject/src/SubCategoryPage.rb" />
-        <option value="$USER_HOME$/projects/SearsProject/spec/sears_spec.rb" />
-        <option value="$USER_HOME$/projects/SearsProject/src/Menu.rb" />
-        <option value="$USER_HOME$/projects/SearsProject/src/ProductPage.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/spec/spec_helper.rb" />
+        <option value="$PROJECT_DIR$/src/CategoryPage.rb" />
+        <option value="$PROJECT_DIR$/config/webdriver.rb" />
+        <option value="$PROJECT_DIR$/src/HomePage.rb" />
+        <option value="$PROJECT_DIR$/src/SubCategoryPage.rb" />
+        <option value="$PROJECT_DIR$/spec/sears_spec.rb" />
+        <option value="$PROJECT_DIR$/src/Menu.rb" />
+        <option value="$PROJECT_DIR$/src/ProductPage.rb" />
       </list>
     </option>
   </component>
@@ -139,6 +139,12 @@
               <option name="myItemId" value="SearsProject" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SearsProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="QABootcamp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -152,7 +158,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/projects/Work/Delta/infrastructure" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Work/Delta/infrastructure" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
@@ -307,7 +313,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/projects/QABootcamp/src/HomePage.rb">
+    <entry file="file://$PROJECT_DIR$/../QABootcamp/src/HomePage.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="622" max-vertical-offset="1225">
           <caret line="35" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
@@ -315,7 +321,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/projects/QABootcamp/src/SubCategoryPage.rb">
+    <entry file="file://$PROJECT_DIR$/../QABootcamp/src/SubCategoryPage.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="25" max-vertical-offset="825">
           <caret line="1" column="43" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="43" />
@@ -323,7 +329,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/projects/QABootcamp/spec/sears_spec.rb">
+    <entry file="file://$PROJECT_DIR$/../QABootcamp/spec/sears_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="775">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -331,7 +337,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/projects/QABootcamp/src/HomePage.rb">
+    <entry file="file://$PROJECT_DIR$/../QABootcamp/src/HomePage.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="97" max-vertical-offset="975">
           <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
@@ -339,7 +345,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/projects/QABootcamp/src/SubCategoryPage.rb">
+    <entry file="file://$PROJECT_DIR$/../QABootcamp/src/SubCategoryPage.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="200" max-vertical-offset="525">
           <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
@@ -347,7 +353,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/projects/QABootcamp/spec/sears_spec.rb">
+    <entry file="file://$PROJECT_DIR$/../QABootcamp/spec/sears_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="725">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -355,7 +361,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/projects/QABootcamp/Gemfile">
+    <entry file="file://$PROJECT_DIR$/../QABootcamp/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="250">
           <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
@@ -363,7 +369,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/projects/QABootcamp/spec/spec_helper.rb">
+    <entry file="file://$PROJECT_DIR$/../QABootcamp/spec/spec_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2450">
           <caret line="0" column="27" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="28" />
@@ -371,7 +377,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/projects/QABootcamp/src/HomePage.rb">
+    <entry file="file://$PROJECT_DIR$/../QABootcamp/src/HomePage.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="307" max-vertical-offset="1290">
           <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
@@ -379,7 +385,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/projects/QABootcamp/src/SubCategoryPage.rb">
+    <entry file="file://$PROJECT_DIR$/../QABootcamp/src/SubCategoryPage.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="213" max-vertical-offset="2052">
           <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
@@ -387,7 +393,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/projects/QABootcamp/spec/sears_spec.rb">
+    <entry file="file://$PROJECT_DIR$/../QABootcamp/spec/sears_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="92" max-vertical-offset="1419">
           <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
@@ -395,7 +401,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/projects/QABootcamp/src/Menu.rb">
+    <entry file="file://$PROJECT_DIR$/../QABootcamp/src/Menu.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1720">
           <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
@@ -411,7 +417,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/projects/QABootcamp/src/ProductPage.rb">
+    <entry file="file://$PROJECT_DIR$/../QABootcamp/src/ProductPage.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.46728972" vertical-offset="0" max-vertical-offset="675">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
